@@ -1,3 +1,7 @@
-# HelloWorld Sample App
+# Messages For Skype
 
-Simplest possible TideSDK desktop app demonstrating menus and hello world.
+TideSDK desktop app for windows 7+
+
+Allows for the removal of Skype messages
+
+TideSDK library is required
