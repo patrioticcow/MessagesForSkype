@@ -8,6 +8,8 @@ var menu     = Ti.UI.createMenu(),
 menu.appendItem(fileItem);
 Ti.UI.setMenu(menu);
 
+initDB();
+
 $(function () {
 	var body     = $('body');
 	var response = null;
@@ -24,9 +26,6 @@ $(function () {
 		// remove readOnly
 		var skypeDir = Ti.Filesystem.getFile(path, 'main.db');
 		skypeDir.setWritable();
-
-	} else {
-		$('#myTab a:last').tab('show');
 	}
 
 	$('#saveSkypePathHelp').on('click', function () {
@@ -61,6 +60,11 @@ $(function () {
 		}
 	});
 });
+
+function initDB() {
+	var initDb = Ti.Database.openFile(Ti.Filesystem.getFile(Ti.Filesystem.getApplicationDataDirectory(), 'database.db'));
+	initDb.execute("CREATE TABLE IF NOT EXISTS container (id INTEGER PRIMARY KEY, skypePath TEXT)");
+}
 
 function removeUserComment(that, path) {
 	var id = that.data('id');

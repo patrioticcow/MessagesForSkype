@@ -1,11 +1,11 @@
 <ti:app xmlns:ti="http://ti.appcelerator.org">
-<id>com.tidesdk.helloworld</id>
-<name>HelloWorld</name>
-<version>0.2.0</version>
+<id>com.massinflux.messagesforskype</id>
+<name>MessagesForSkype</name>
+<version>0.5.0</version>
 <publisher>Software in the Public Interest (SPI) Inc</publisher>
-<url>http//tidesdk.org</url>
+<url>http//massinflux.com</url>
 <icon>default_app_logo.png</icon>
-<copyright>2012 by David Pratt</copyright>
+<copyright>2015 by Cristi Citea</copyright>
 
 <window>
 <id>initial</id>
