@@ -190,8 +190,6 @@ function getPath() {
 }
 
 function insertDefaults(path) {
-	alert(path);	alert("INSERT INTO container (id, skypePath) VALUES (1, '" + path + "')");
-
 	var db = Ti.Database.openFile(Ti.Filesystem.getFile(Ti.Filesystem.getApplicationDataDirectory(), 'database.db'));
 	db.execute("INSERT INTO container (id, skypePath) VALUES (1, '" + path + "')");
 	alert('The path was saved successfully');
