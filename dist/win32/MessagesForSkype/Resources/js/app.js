@@ -15,9 +15,6 @@ var s             = Ti.Filesystem.getSeparator();
 var path          = 'C:' + s + 'Users' + s + '' + username + '' + s + 'AppData' + s + 'Roaming' + s + 'Skype' + s;
 var skypeUsername = getSkypeUsername(path);
 
-//var process = Ti.Process.createProcess({args: ['TASKKILL /F /IM skype.exe']});
-//Ti.Process.launch('TASKKILL /F /IM skype.exe');
-
 $(function () {
 	var body     = $('body');
 	var response = null;
