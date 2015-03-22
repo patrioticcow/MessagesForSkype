@@ -2,18 +2,158 @@
 <project version="4">
   <component name="ChangeListManager">
     <list default="true" id="53381286-6890-4fd8-b7b1-91f0d1d5a14a" name="Default" comment="">
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/Resources/js/app.js" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/Resources/js/list.min.js" />
+      <change type="MOVED" beforePath="C:\Work\MessagesForSkype\Resources\jquery-2.1.3.min.js" afterPath="$PROJECT_DIR$/Resources/js/jquery-2.1.3.min.js" />
       <change type="MODIFICATION" beforePath="$PROJECT_DIR$/dist/win32/MessagesForSkype/MessagesForSkype.exe" afterPath="$PROJECT_DIR$/dist/win32/MessagesForSkype/MessagesForSkype.exe" />
-      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/dist/win32/MessagesForSkype/Resources/_converted_icon.ico" afterPath="$PROJECT_DIR$/dist/win32/MessagesForSkype/Resources/_converted_icon.ico" />
-      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/dist/win32/MessagesForSkype/Resources/default_app_logo.png" afterPath="$PROJECT_DIR$/dist/win32/MessagesForSkype/Resources/default_app_logo.png" />
-      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/dist/win32/MessagesForSkype/CHANGELOG" afterPath="$PROJECT_DIR$/dist/win32/MessagesForSkype/CHANGELOG" />
-      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/dist/win32/MessagesForSkype/LICENSE" afterPath="$PROJECT_DIR$/dist/win32/MessagesForSkype/LICENSE" />
-      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/dist/win32/MessagesForSkype/Resources/app.js" afterPath="$PROJECT_DIR$/dist/win32/MessagesForSkype/Resources/app.js" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/packages/win32/bundle/MessagesForSkype/MessagesForSkype.exe" afterPath="$PROJECT_DIR$/packages/win32/bundle/MessagesForSkype/MessagesForSkype.exe" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/packages/win32/bundle/MessagesForSkype/runtime/1.3.1-beta/WebKit.resources/inspector/AbstractTimelinePanel.js" afterPath="$PROJECT_DIR$/packages/win32/bundle/MessagesForSkype/runtime/1.3.1-beta/WebKit.resources/inspector/AbstractTimelinePanel.js" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/packages/win32/bundle/MessagesForSkype/runtime/1.3.1-beta/WebKit.resources/inspector/AuditCategories.js" afterPath="$PROJECT_DIR$/packages/win32/bundle/MessagesForSkype/runtime/1.3.1-beta/WebKit.resources/inspector/AuditCategories.js" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/packages/win32/bundle/MessagesForSkype/runtime/1.3.1-beta/WebKit.resources/inspector/AuditLauncherView.js" afterPath="$PROJECT_DIR$/packages/win32/bundle/MessagesForSkype/runtime/1.3.1-beta/WebKit.resources/inspector/AuditLauncherView.js" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/packages/win32/bundle/MessagesForSkype/runtime/1.3.1-beta/WebKit.resources/inspector/AuditResultView.js" afterPath="$PROJECT_DIR$/packages/win32/bundle/MessagesForSkype/runtime/1.3.1-beta/WebKit.resources/inspector/AuditResultView.js" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/packages/win32/bundle/MessagesForSkype/runtime/1.3.1-beta/WebKit.resources/inspector/AuditRules.js" afterPath="$PROJECT_DIR$/packages/win32/bundle/MessagesForSkype/runtime/1.3.1-beta/WebKit.resources/inspector/AuditRules.js" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/packages/win32/bundle/MessagesForSkype/runtime/1.3.1-beta/WebKit.resources/inspector/AuditsPanel.js" afterPath="$PROJECT_DIR$/packages/win32/bundle/MessagesForSkype/runtime/1.3.1-beta/WebKit.resources/inspector/AuditsPanel.js" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/packages/win32/bundle/MessagesForSkype/runtime/1.3.1-beta/WebKit.resources/inspector/BottomUpProfileDataGridTree.js" afterPath="$PROJECT_DIR$/packages/win32/bundle/MessagesForSkype/runtime/1.3.1-beta/WebKit.resources/inspector/BottomUpProfileDataGridTree.js" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/packages/win32/bundle/MessagesForSkype/runtime/1.3.1-beta/WebKit.resources/inspector/Breakpoint.js" afterPath="$PROJECT_DIR$/packages/win32/bundle/MessagesForSkype/runtime/1.3.1-beta/WebKit.resources/inspector/Breakpoint.js" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/packages/win32/bundle/MessagesForSkype/runtime/1.3.1-beta/WebKit.resources/inspector/BreakpointsSidebarPane.js" afterPath="$PROJECT_DIR$/packages/win32/bundle/MessagesForSkype/runtime/1.3.1-beta/WebKit.resources/inspector/BreakpointsSidebarPane.js" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/packages/win32/bundle/MessagesForSkype/runtime/1.3.1-beta/WebKit.resources/inspector/CallStackSidebarPane.js" afterPath="$PROJECT_DIR$/packages/win32/bundle/MessagesForSkype/runtime/1.3.1-beta/WebKit.resources/inspector/CallStackSidebarPane.js" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/packages/win32/bundle/MessagesForSkype/runtime/1.3.1-beta/WebKit.resources/inspector/Callback.js" afterPath="$PROJECT_DIR$/packages/win32/bundle/MessagesForSkype/runtime/1.3.1-beta/WebKit.resources/inspector/Callback.js" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/packages/win32/bundle/MessagesForSkype/runtime/1.3.1-beta/WebKit.resources/inspector/ChangesView.js" afterPath="$PROJECT_DIR$/packages/win32/bundle/MessagesForSkype/runtime/1.3.1-beta/WebKit.resources/inspector/ChangesView.js" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/packages/win32/bundle/MessagesForSkype/runtime/1.3.1-beta/WebKit.resources/inspector/Checkbox.js" afterPath="$PROJECT_DIR$/packages/win32/bundle/MessagesForSkype/runtime/1.3.1-beta/WebKit.resources/inspector/Checkbox.js" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/packages/win32/bundle/MessagesForSkype/runtime/1.3.1-beta/WebKit.resources/inspector/Color.js" afterPath="$PROJECT_DIR$/packages/win32/bundle/MessagesForSkype/runtime/1.3.1-beta/WebKit.resources/inspector/Color.js" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/packages/win32/bundle/MessagesForSkype/runtime/1.3.1-beta/WebKit.resources/inspector/ConsolePanel.js" afterPath="$PROJECT_DIR$/packages/win32/bundle/MessagesForSkype/runtime/1.3.1-beta/WebKit.resources/inspector/ConsolePanel.js" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/packages/win32/bundle/MessagesForSkype/runtime/1.3.1-beta/WebKit.resources/inspector/ConsoleView.js" afterPath="$PROJECT_DIR$/packages/win32/bundle/MessagesForSkype/runtime/1.3.1-beta/WebKit.resources/inspector/ConsoleView.js" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/packages/win32/bundle/MessagesForSkype/runtime/1.3.1-beta/WebKit.resources/inspector/ContextMenu.js" afterPath="$PROJECT_DIR$/packages/win32/bundle/MessagesForSkype/runtime/1.3.1-beta/WebKit.resources/inspector/ContextMenu.js" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/packages/win32/bundle/MessagesForSkype/runtime/1.3.1-beta/WebKit.resources/inspector/CookieItemsView.js" afterPath="$PROJECT_DIR$/packages/win32/bundle/MessagesForSkype/runtime/1.3.1-beta/WebKit.resources/inspector/CookieItemsView.js" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/packages/win32/bundle/MessagesForSkype/runtime/1.3.1-beta/WebKit.resources/inspector/DOMAgent.js" afterPath="$PROJECT_DIR$/packages/win32/bundle/MessagesForSkype/runtime/1.3.1-beta/WebKit.resources/inspector/DOMAgent.js" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/packages/win32/bundle/MessagesForSkype/runtime/1.3.1-beta/WebKit.resources/inspector/DOMStorage.js" afterPath="$PROJECT_DIR$/packages/win32/bundle/MessagesForSkype/runtime/1.3.1-beta/WebKit.resources/inspector/DOMStorage.js" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/packages/win32/bundle/MessagesForSkype/runtime/1.3.1-beta/WebKit.resources/inspector/DOMStorageItemsView.js" afterPath="$PROJECT_DIR$/packages/win32/bundle/MessagesForSkype/runtime/1.3.1-beta/WebKit.resources/inspector/DOMStorageItemsView.js" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/packages/win32/bundle/MessagesForSkype/runtime/1.3.1-beta/WebKit.resources/inspector/DOMSyntaxHighlighter.js" afterPath="$PROJECT_DIR$/packages/win32/bundle/MessagesForSkype/runtime/1.3.1-beta/WebKit.resources/inspector/DOMSyntaxHighlighter.js" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/packages/win32/bundle/MessagesForSkype/runtime/1.3.1-beta/WebKit.resources/inspector/DataGrid.js" afterPath="$PROJECT_DIR$/packages/win32/bundle/MessagesForSkype/runtime/1.3.1-beta/WebKit.resources/inspector/DataGrid.js" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/packages/win32/bundle/MessagesForSkype/runtime/1.3.1-beta/WebKit.resources/inspector/Database.js" afterPath="$PROJECT_DIR$/packages/win32/bundle/MessagesForSkype/runtime/1.3.1-beta/WebKit.resources/inspector/Database.js" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/packages/win32/bundle/MessagesForSkype/runtime/1.3.1-beta/WebKit.resources/inspector/DatabaseQueryView.js" afterPath="$PROJECT_DIR$/packages/win32/bundle/MessagesForSkype/runtime/1.3.1-beta/WebKit.resources/inspector/DatabaseQueryView.js" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/packages/win32/bundle/MessagesForSkype/runtime/1.3.1-beta/WebKit.resources/inspector/DatabaseTableView.js" afterPath="$PROJECT_DIR$/packages/win32/bundle/MessagesForSkype/runtime/1.3.1-beta/WebKit.resources/inspector/DatabaseTableView.js" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/packages/win32/bundle/MessagesForSkype/runtime/1.3.1-beta/WebKit.resources/inspector/Drawer.js" afterPath="$PROJECT_DIR$/packages/win32/bundle/MessagesForSkype/runtime/1.3.1-beta/WebKit.resources/inspector/Drawer.js" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/packages/win32/bundle/MessagesForSkype/runtime/1.3.1-beta/WebKit.resources/inspector/ElementsPanel.js" afterPath="$PROJECT_DIR$/packages/win32/bundle/MessagesForSkype/runtime/1.3.1-beta/WebKit.resources/inspector/ElementsPanel.js" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/packages/win32/bundle/MessagesForSkype/runtime/1.3.1-beta/WebKit.resources/inspector/ElementsTreeOutline.js" afterPath="$PROJECT_DIR$/packages/win32/bundle/MessagesForSkype/runtime/1.3.1-beta/WebKit.resources/inspector/ElementsTreeOutline.js" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/packages/win32/bundle/MessagesForSkype/runtime/1.3.1-beta/WebKit.resources/inspector/EventListenersSidebarPane.js" afterPath="$PROJECT_DIR$/packages/win32/bundle/MessagesForSkype/runtime/1.3.1-beta/WebKit.resources/inspector/EventListenersSidebarPane.js" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/packages/win32/bundle/MessagesForSkype/runtime/1.3.1-beta/WebKit.resources/inspector/FontView.js" afterPath="$PROJECT_DIR$/packages/win32/bundle/MessagesForSkype/runtime/1.3.1-beta/WebKit.resources/inspector/FontView.js" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/packages/win32/bundle/MessagesForSkype/runtime/1.3.1-beta/WebKit.resources/inspector/ImageView.js" afterPath="$PROJECT_DIR$/packages/win32/bundle/MessagesForSkype/runtime/1.3.1-beta/WebKit.resources/inspector/ImageView.js" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/packages/win32/bundle/MessagesForSkype/runtime/1.3.1-beta/CFLite.resources/Info.plist" afterPath="$PROJECT_DIR$/packages/win32/bundle/MessagesForSkype/runtime/1.3.1-beta/CFLite.resources/Info.plist" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/packages/win32/bundle/MessagesForSkype/runtime/1.3.1-beta/JavaScriptCore.resources/Info.plist" afterPath="$PROJECT_DIR$/packages/win32/bundle/MessagesForSkype/runtime/1.3.1-beta/JavaScriptCore.resources/Info.plist" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/packages/win32/bundle/MessagesForSkype/runtime/1.3.1-beta/WebKit.resources/Info.plist" afterPath="$PROJECT_DIR$/packages/win32/bundle/MessagesForSkype/runtime/1.3.1-beta/WebKit.resources/Info.plist" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/packages/win32/bundle/MessagesForSkype/runtime/1.3.1-beta/WebKit.resources/inspector/InjectedFakeWorker.js" afterPath="$PROJECT_DIR$/packages/win32/bundle/MessagesForSkype/runtime/1.3.1-beta/WebKit.resources/inspector/InjectedFakeWorker.js" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/packages/win32/bundle/MessagesForSkype/runtime/1.3.1-beta/WebKit.resources/inspector/InjectedScript.js" afterPath="$PROJECT_DIR$/packages/win32/bundle/MessagesForSkype/runtime/1.3.1-beta/WebKit.resources/inspector/InjectedScript.js" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/packages/win32/bundle/MessagesForSkype/runtime/1.3.1-beta/WebKit.resources/inspector/InjectedScriptAccess.js" afterPath="$PROJECT_DIR$/packages/win32/bundle/MessagesForSkype/runtime/1.3.1-beta/WebKit.resources/inspector/InjectedScriptAccess.js" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/packages/win32/bundle/MessagesForSkype/runtime/1.3.1-beta/WebKit.resources/inspector/InspectorBackendStub.js" afterPath="$PROJECT_DIR$/packages/win32/bundle/MessagesForSkype/runtime/1.3.1-beta/WebKit.resources/inspector/InspectorBackendStub.js" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/packages/win32/bundle/MessagesForSkype/runtime/1.3.1-beta/WebKit.resources/inspector/InspectorFrontendHostStub.js" afterPath="$PROJECT_DIR$/packages/win32/bundle/MessagesForSkype/runtime/1.3.1-beta/WebKit.resources/inspector/InspectorFrontendHostStub.js" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/packages/win32/bundle/MessagesForSkype/runtime/1.3.1-beta/WebKit.resources/inspector/KeyboardShortcut.js" afterPath="$PROJECT_DIR$/packages/win32/bundle/MessagesForSkype/runtime/1.3.1-beta/WebKit.resources/inspector/KeyboardShortcut.js" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/packages/win32/bundle/MessagesForSkype/runtime/1.3.1-beta/WebKit.resources/inspector/MetricsSidebarPane.js" afterPath="$PROJECT_DIR$/packages/win32/bundle/MessagesForSkype/runtime/1.3.1-beta/WebKit.resources/inspector/MetricsSidebarPane.js" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/packages/win32/bundle/MessagesForSkype/runtime/1.3.1-beta/WebKit.resources/inspector/NativeTextViewer.js" afterPath="$PROJECT_DIR$/packages/win32/bundle/MessagesForSkype/runtime/1.3.1-beta/WebKit.resources/inspector/NativeTextViewer.js" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/packages/win32/bundle/MessagesForSkype/runtime/1.3.1-beta/WebKit.resources/inspector/Object.js" afterPath="$PROJECT_DIR$/packages/win32/bundle/MessagesForSkype/runtime/1.3.1-beta/WebKit.resources/inspector/Object.js" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/packages/win32/bundle/MessagesForSkype/runtime/1.3.1-beta/WebKit.resources/inspector/ObjectPropertiesSection.js" afterPath="$PROJECT_DIR$/packages/win32/bundle/MessagesForSkype/runtime/1.3.1-beta/WebKit.resources/inspector/ObjectPropertiesSection.js" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/packages/win32/bundle/MessagesForSkype/runtime/1.3.1-beta/WebKit.resources/inspector/ObjectProxy.js" afterPath="$PROJECT_DIR$/packages/win32/bundle/MessagesForSkype/runtime/1.3.1-beta/WebKit.resources/inspector/ObjectProxy.js" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/packages/win32/bundle/MessagesForSkype/runtime/1.3.1-beta/WebKit.resources/inspector/Panel.js" afterPath="$PROJECT_DIR$/packages/win32/bundle/MessagesForSkype/runtime/1.3.1-beta/WebKit.resources/inspector/Panel.js" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/packages/win32/bundle/MessagesForSkype/runtime/1.3.1-beta/WebKit.resources/inspector/PanelEnablerView.js" afterPath="$PROJECT_DIR$/packages/win32/bundle/MessagesForSkype/runtime/1.3.1-beta/WebKit.resources/inspector/PanelEnablerView.js" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/packages/win32/bundle/MessagesForSkype/runtime/1.3.1-beta/WebKit.resources/inspector/Placard.js" afterPath="$PROJECT_DIR$/packages/win32/bundle/MessagesForSkype/runtime/1.3.1-beta/WebKit.resources/inspector/Placard.js" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/packages/win32/bundle/MessagesForSkype/runtime/1.3.1-beta/WebKit.resources/inspector/Popover.js" afterPath="$PROJECT_DIR$/packages/win32/bundle/MessagesForSkype/runtime/1.3.1-beta/WebKit.resources/inspector/Popover.js" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/packages/win32/bundle/MessagesForSkype/runtime/1.3.1-beta/WebKit.resources/inspector/Popup.js" afterPath="$PROJECT_DIR$/packages/win32/bundle/MessagesForSkype/runtime/1.3.1-beta/WebKit.resources/inspector/Popup.js" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/packages/win32/bundle/MessagesForSkype/runtime/1.3.1-beta/WebKit.resources/inspector/ProfileDataGridTree.js" afterPath="$PROJECT_DIR$/packages/win32/bundle/MessagesForSkype/runtime/1.3.1-beta/WebKit.resources/inspector/ProfileDataGridTree.js" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/packages/win32/bundle/MessagesForSkype/runtime/1.3.1-beta/WebKit.resources/inspector/ProfileView.js" afterPath="$PROJECT_DIR$/packages/win32/bundle/MessagesForSkype/runtime/1.3.1-beta/WebKit.resources/inspector/ProfileView.js" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/packages/win32/bundle/MessagesForSkype/runtime/1.3.1-beta/WebKit.resources/inspector/ProfilesPanel.js" afterPath="$PROJECT_DIR$/packages/win32/bundle/MessagesForSkype/runtime/1.3.1-beta/WebKit.resources/inspector/ProfilesPanel.js" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/packages/win32/bundle/MessagesForSkype/runtime/1.3.1-beta/WebKit.resources/inspector/PropertiesSection.js" afterPath="$PROJECT_DIR$/packages/win32/bundle/MessagesForSkype/runtime/1.3.1-beta/WebKit.resources/inspector/PropertiesSection.js" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/packages/win32/bundle/MessagesForSkype/runtime/1.3.1-beta/WebKit.resources/inspector/PropertiesSidebarPane.js" afterPath="$PROJECT_DIR$/packages/win32/bundle/MessagesForSkype/runtime/1.3.1-beta/WebKit.resources/inspector/PropertiesSidebarPane.js" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/README.md" afterPath="$PROJECT_DIR$/README.md" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/dist/win32/MessagesForSkype/README.md" afterPath="$PROJECT_DIR$/dist/win32/MessagesForSkype/README.md" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/packages/win32/bundle/MessagesForSkype/README.md" afterPath="$PROJECT_DIR$/packages/win32/bundle/MessagesForSkype/README.md" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/packages/win32/bundle/MessagesForSkype/runtime/1.3.1-beta/WebKit.resources/inspector/Resource.js" afterPath="$PROJECT_DIR$/packages/win32/bundle/MessagesForSkype/runtime/1.3.1-beta/WebKit.resources/inspector/Resource.js" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/packages/win32/bundle/MessagesForSkype/runtime/1.3.1-beta/WebKit.resources/inspector/ResourceCategory.js" afterPath="$PROJECT_DIR$/packages/win32/bundle/MessagesForSkype/runtime/1.3.1-beta/WebKit.resources/inspector/ResourceCategory.js" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/packages/win32/bundle/MessagesForSkype/runtime/1.3.1-beta/WebKit.resources/inspector/ResourceView.js" afterPath="$PROJECT_DIR$/packages/win32/bundle/MessagesForSkype/runtime/1.3.1-beta/WebKit.resources/inspector/ResourceView.js" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/packages/win32/bundle/MessagesForSkype/runtime/1.3.1-beta/WebKit.resources/inspector/ResourcesPanel.js" afterPath="$PROJECT_DIR$/packages/win32/bundle/MessagesForSkype/runtime/1.3.1-beta/WebKit.resources/inspector/ResourcesPanel.js" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/packages/win32/bundle/MessagesForSkype/runtime/1.3.1-beta/WebKit.resources/inspector/ScopeChainSidebarPane.js" afterPath="$PROJECT_DIR$/packages/win32/bundle/MessagesForSkype/runtime/1.3.1-beta/WebKit.resources/inspector/ScopeChainSidebarPane.js" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/packages/win32/bundle/MessagesForSkype/runtime/1.3.1-beta/WebKit.resources/inspector/Script.js" afterPath="$PROJECT_DIR$/packages/win32/bundle/MessagesForSkype/runtime/1.3.1-beta/WebKit.resources/inspector/Script.js" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/packages/win32/bundle/MessagesForSkype/runtime/1.3.1-beta/WebKit.resources/inspector/ScriptView.js" afterPath="$PROJECT_DIR$/packages/win32/bundle/MessagesForSkype/runtime/1.3.1-beta/WebKit.resources/inspector/ScriptView.js" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/packages/win32/bundle/MessagesForSkype/runtime/1.3.1-beta/WebKit.resources/inspector/ScriptsPanel.js" afterPath="$PROJECT_DIR$/packages/win32/bundle/MessagesForSkype/runtime/1.3.1-beta/WebKit.resources/inspector/ScriptsPanel.js" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/packages/win32/bundle/MessagesForSkype/runtime/1.3.1-beta/WebKit.resources/inspector/Section.js" afterPath="$PROJECT_DIR$/packages/win32/bundle/MessagesForSkype/runtime/1.3.1-beta/WebKit.resources/inspector/Section.js" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/packages/win32/bundle/MessagesForSkype/runtime/1.3.1-beta/WebKit.resources/inspector/Settings.js" afterPath="$PROJECT_DIR$/packages/win32/bundle/MessagesForSkype/runtime/1.3.1-beta/WebKit.resources/inspector/Settings.js" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/packages/win32/bundle/MessagesForSkype/runtime/1.3.1-beta/WebKit.resources/inspector/SidebarPane.js" afterPath="$PROJECT_DIR$/packages/win32/bundle/MessagesForSkype/runtime/1.3.1-beta/WebKit.resources/inspector/SidebarPane.js" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/packages/win32/bundle/MessagesForSkype/runtime/1.3.1-beta/WebKit.resources/inspector/SidebarTreeElement.js" afterPath="$PROJECT_DIR$/packages/win32/bundle/MessagesForSkype/runtime/1.3.1-beta/WebKit.resources/inspector/SidebarTreeElement.js" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/packages/win32/bundle/MessagesForSkype/runtime/1.3.1-beta/WebKit.resources/inspector/SourceCSSTokenizer.js" afterPath="$PROJECT_DIR$/packages/win32/bundle/MessagesForSkype/runtime/1.3.1-beta/WebKit.resources/inspector/SourceCSSTokenizer.js" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/packages/win32/bundle/MessagesForSkype/runtime/1.3.1-beta/WebKit.resources/inspector/SourceCSSTokenizer.re2js" afterPath="$PROJECT_DIR$/packages/win32/bundle/MessagesForSkype/runtime/1.3.1-beta/WebKit.resources/inspector/SourceCSSTokenizer.re2js" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/packages/win32/bundle/MessagesForSkype/runtime/1.3.1-beta/WebKit.resources/inspector/SourceFrame.js" afterPath="$PROJECT_DIR$/packages/win32/bundle/MessagesForSkype/runtime/1.3.1-beta/WebKit.resources/inspector/SourceFrame.js" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/packages/win32/bundle/MessagesForSkype/runtime/1.3.1-beta/WebKit.resources/inspector/SourceHTMLTokenizer.js" afterPath="$PROJECT_DIR$/packages/win32/bundle/MessagesForSkype/runtime/1.3.1-beta/WebKit.resources/inspector/SourceHTMLTokenizer.js" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/packages/win32/bundle/MessagesForSkype/runtime/1.3.1-beta/WebKit.resources/inspector/SourceHTMLTokenizer.re2js" afterPath="$PROJECT_DIR$/packages/win32/bundle/MessagesForSkype/runtime/1.3.1-beta/WebKit.resources/inspector/SourceHTMLTokenizer.re2js" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/packages/win32/bundle/MessagesForSkype/runtime/1.3.1-beta/WebKit.resources/inspector/SourceJavaScriptTokenizer.js" afterPath="$PROJECT_DIR$/packages/win32/bundle/MessagesForSkype/runtime/1.3.1-beta/WebKit.resources/inspector/SourceJavaScriptTokenizer.js" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/packages/win32/bundle/MessagesForSkype/runtime/1.3.1-beta/WebKit.resources/inspector/SourceJavaScriptTokenizer.re2js" afterPath="$PROJECT_DIR$/packages/win32/bundle/MessagesForSkype/runtime/1.3.1-beta/WebKit.resources/inspector/SourceJavaScriptTokenizer.re2js" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/packages/win32/bundle/MessagesForSkype/runtime/1.3.1-beta/WebKit.resources/inspector/SourceTokenizer.js" afterPath="$PROJECT_DIR$/packages/win32/bundle/MessagesForSkype/runtime/1.3.1-beta/WebKit.resources/inspector/SourceTokenizer.js" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/packages/win32/bundle/MessagesForSkype/runtime/1.3.1-beta/WebKit.resources/inspector/SourceView.js" afterPath="$PROJECT_DIR$/packages/win32/bundle/MessagesForSkype/runtime/1.3.1-beta/WebKit.resources/inspector/SourceView.js" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/packages/win32/bundle/MessagesForSkype/runtime/1.3.1-beta/WebKit.resources/inspector/StatusBarButton.js" afterPath="$PROJECT_DIR$/packages/win32/bundle/MessagesForSkype/runtime/1.3.1-beta/WebKit.resources/inspector/StatusBarButton.js" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/packages/win32/bundle/MessagesForSkype/runtime/1.3.1-beta/WebKit.resources/inspector/StoragePanel.js" afterPath="$PROJECT_DIR$/packages/win32/bundle/MessagesForSkype/runtime/1.3.1-beta/WebKit.resources/inspector/StoragePanel.js" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/packages/win32/bundle/MessagesForSkype/runtime/1.3.1-beta/WebKit.resources/inspector/StylesSidebarPane.js" afterPath="$PROJECT_DIR$/packages/win32/bundle/MessagesForSkype/runtime/1.3.1-beta/WebKit.resources/inspector/StylesSidebarPane.js" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/packages/win32/bundle/MessagesForSkype/runtime/1.3.1-beta/WebKit.resources/inspector/SummaryBar.js" afterPath="$PROJECT_DIR$/packages/win32/bundle/MessagesForSkype/runtime/1.3.1-beta/WebKit.resources/inspector/SummaryBar.js" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/packages/win32/bundle/MessagesForSkype/runtime/1.3.1-beta/WebKit.resources/inspector/TestController.js" afterPath="$PROJECT_DIR$/packages/win32/bundle/MessagesForSkype/runtime/1.3.1-beta/WebKit.resources/inspector/TestController.js" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/packages/win32/bundle/MessagesForSkype/runtime/1.3.1-beta/WebKit.resources/inspector/TextEditor.js" afterPath="$PROJECT_DIR$/packages/win32/bundle/MessagesForSkype/runtime/1.3.1-beta/WebKit.resources/inspector/TextEditor.js" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/packages/win32/bundle/MessagesForSkype/runtime/1.3.1-beta/WebKit.resources/inspector/TextEditorHighlighter.js" afterPath="$PROJECT_DIR$/packages/win32/bundle/MessagesForSkype/runtime/1.3.1-beta/WebKit.resources/inspector/TextEditorHighlighter.js" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/packages/win32/bundle/MessagesForSkype/runtime/1.3.1-beta/WebKit.resources/inspector/TextEditorModel.js" afterPath="$PROJECT_DIR$/packages/win32/bundle/MessagesForSkype/runtime/1.3.1-beta/WebKit.resources/inspector/TextEditorModel.js" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/packages/win32/bundle/MessagesForSkype/runtime/1.3.1-beta/WebKit.resources/inspector/TextPrompt.js" afterPath="$PROJECT_DIR$/packages/win32/bundle/MessagesForSkype/runtime/1.3.1-beta/WebKit.resources/inspector/TextPrompt.js" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/packages/win32/bundle/MessagesForSkype/runtime/1.3.1-beta/WebKit.resources/inspector/TextViewer.js" afterPath="$PROJECT_DIR$/packages/win32/bundle/MessagesForSkype/runtime/1.3.1-beta/WebKit.resources/inspector/TextViewer.js" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/packages/win32/bundle/MessagesForSkype/runtime/1.3.1-beta/WebKit.resources/inspector/TimelineAgent.js" afterPath="$PROJECT_DIR$/packages/win32/bundle/MessagesForSkype/runtime/1.3.1-beta/WebKit.resources/inspector/TimelineAgent.js" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/packages/win32/bundle/MessagesForSkype/runtime/1.3.1-beta/WebKit.resources/inspector/TimelineGrid.js" afterPath="$PROJECT_DIR$/packages/win32/bundle/MessagesForSkype/runtime/1.3.1-beta/WebKit.resources/inspector/TimelineGrid.js" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/packages/win32/bundle/MessagesForSkype/runtime/1.3.1-beta/WebKit.resources/inspector/TimelineOverviewPane.js" afterPath="$PROJECT_DIR$/packages/win32/bundle/MessagesForSkype/runtime/1.3.1-beta/WebKit.resources/inspector/TimelineOverviewPane.js" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/packages/win32/bundle/MessagesForSkype/runtime/1.3.1-beta/WebKit.resources/inspector/TimelinePanel.js" afterPath="$PROJECT_DIR$/packages/win32/bundle/MessagesForSkype/runtime/1.3.1-beta/WebKit.resources/inspector/TimelinePanel.js" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/packages/win32/bundle/MessagesForSkype/runtime/1.3.1-beta/WebKit.resources/inspector/TopDownProfileDataGridTree.js" afterPath="$PROJECT_DIR$/packages/win32/bundle/MessagesForSkype/runtime/1.3.1-beta/WebKit.resources/inspector/TopDownProfileDataGridTree.js" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/packages/win32/bundle/MessagesForSkype/runtime/1.3.1-beta/WebKit.resources/inspector/View.js" afterPath="$PROJECT_DIR$/packages/win32/bundle/MessagesForSkype/runtime/1.3.1-beta/WebKit.resources/inspector/View.js" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/packages/win32/bundle/MessagesForSkype/runtime/1.3.1-beta/WebKit.resources/inspector/WatchExpressionsSidebarPane.js" afterPath="$PROJECT_DIR$/packages/win32/bundle/MessagesForSkype/runtime/1.3.1-beta/WebKit.resources/inspector/WatchExpressionsSidebarPane.js" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/packages/win32/bundle/MessagesForSkype/runtime/1.3.1-beta/WebKit.resources/inspector/WebKit.qrc" afterPath="$PROJECT_DIR$/packages/win32/bundle/MessagesForSkype/runtime/1.3.1-beta/WebKit.resources/inspector/WebKit.qrc" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/packages/win32/bundle/MessagesForSkype/runtime/1.3.1-beta/WebKit.resources/inspector/WelcomeView.js" afterPath="$PROJECT_DIR$/packages/win32/bundle/MessagesForSkype/runtime/1.3.1-beta/WebKit.resources/inspector/WelcomeView.js" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/packages/win32/bundle/MessagesForSkype/runtime/1.3.1-beta/WebKit.resources/inspector/WorkersSidebarPane.js" afterPath="$PROJECT_DIR$/packages/win32/bundle/MessagesForSkype/runtime/1.3.1-beta/WebKit.resources/inspector/WorkersSidebarPane.js" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/packages/win32/bundle/MessagesForSkype/runtime/1.3.1-beta/WebKit.resources/inspector/audits.css" afterPath="$PROJECT_DIR$/packages/win32/bundle/MessagesForSkype/runtime/1.3.1-beta/WebKit.resources/inspector/audits.css" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/Resources/bootstrap/css/bootstrap.min.css" afterPath="$PROJECT_DIR$/Resources/bootstrap/css/bootstrap.min.css" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/dist/win32/MessagesForSkype/Resources/bootstrap/css/bootstrap.min.css" afterPath="$PROJECT_DIR$/dist/win32/MessagesForSkype/Resources/bootstrap/css/bootstrap.min.css" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/packages/win32/bundle/MessagesForSkype/Resources/bootstrap/css/bootstrap.min.css" afterPath="$PROJECT_DIR$/packages/win32/bundle/MessagesForSkype/Resources/bootstrap/css/bootstrap.min.css" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/Resources/bootstrap/js/bootstrap.min.js" afterPath="$PROJECT_DIR$/Resources/bootstrap/js/bootstrap.min.js" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/dist/win32/MessagesForSkype/Resources/bootstrap/js/bootstrap.min.js" afterPath="$PROJECT_DIR$/dist/win32/MessagesForSkype/Resources/bootstrap/js/bootstrap.min.js" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/packages/win32/bundle/MessagesForSkype/Resources/bootstrap/js/bootstrap.min.js" afterPath="$PROJECT_DIR$/packages/win32/bundle/MessagesForSkype/Resources/bootstrap/js/bootstrap.min.js" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/packages/win32/bundle/MessagesForSkype/modules/ui/1.3.1-beta/default.css" afterPath="$PROJECT_DIR$/packages/win32/bundle/MessagesForSkype/modules/ui/1.3.1-beta/default.css" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/Resources/bootstrap/fonts/glyphicons-halflings-regular.svg" afterPath="$PROJECT_DIR$/Resources/bootstrap/fonts/glyphicons-halflings-regular.svg" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/dist/win32/MessagesForSkype/Resources/bootstrap/fonts/glyphicons-halflings-regular.svg" afterPath="$PROJECT_DIR$/dist/win32/MessagesForSkype/Resources/bootstrap/fonts/glyphicons-halflings-regular.svg" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/packages/win32/bundle/MessagesForSkype/Resources/bootstrap/fonts/glyphicons-halflings-regular.svg" afterPath="$PROJECT_DIR$/packages/win32/bundle/MessagesForSkype/Resources/bootstrap/fonts/glyphicons-halflings-regular.svg" />
       <change type="MODIFICATION" beforePath="$PROJECT_DIR$/Resources/index.html" afterPath="$PROJECT_DIR$/Resources/index.html" />
       <change type="MODIFICATION" beforePath="$PROJECT_DIR$/dist/win32/MessagesForSkype/Resources/index.html" afterPath="$PROJECT_DIR$/dist/win32/MessagesForSkype/Resources/index.html" />
-      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/.idea/vcs.xml" afterPath="$PROJECT_DIR$/.idea/vcs.xml" />
-      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/dist/win32/MessagesForSkype/.idea/vcs.xml" afterPath="$PROJECT_DIR$/dist/win32/MessagesForSkype/.idea/vcs.xml" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/packages/win32/bundle/MessagesForSkype/Resources/index.html" afterPath="$PROJECT_DIR$/packages/win32/bundle/MessagesForSkype/Resources/index.html" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/packages/win32/bundle/MessagesForSkype/runtime/1.3.1-beta/WebKit.resources/inspector/inspector.css" afterPath="$PROJECT_DIR$/packages/win32/bundle/MessagesForSkype/runtime/1.3.1-beta/WebKit.resources/inspector/inspector.css" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/packages/win32/bundle/MessagesForSkype/runtime/1.3.1-beta/WebKit.resources/inspector/inspector.html" afterPath="$PROJECT_DIR$/packages/win32/bundle/MessagesForSkype/runtime/1.3.1-beta/WebKit.resources/inspector/inspector.html" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/packages/win32/bundle/MessagesForSkype/runtime/1.3.1-beta/WebKit.resources/inspector/inspector.js" afterPath="$PROJECT_DIR$/packages/win32/bundle/MessagesForSkype/runtime/1.3.1-beta/WebKit.resources/inspector/inspector.js" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/packages/win32/bundle/MessagesForSkype/runtime/1.3.1-beta/WebKit.resources/inspector/inspectorSyntaxHighlight.css" afterPath="$PROJECT_DIR$/packages/win32/bundle/MessagesForSkype/runtime/1.3.1-beta/WebKit.resources/inspector/inspectorSyntaxHighlight.css" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/packages/win32/bundle/MessagesForSkype/modules/ui/1.3.1-beta/jquery-1.3.2.js" afterPath="$PROJECT_DIR$/packages/win32/bundle/MessagesForSkype/modules/ui/1.3.1-beta/jquery-1.3.2.js" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/packages/win32/bundle/MessagesForSkype/modules/ui/1.3.1-beta/jquery-1.8.2.min.js" afterPath="$PROJECT_DIR$/packages/win32/bundle/MessagesForSkype/modules/ui/1.3.1-beta/jquery-1.8.2.min.js" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/Resources/css/main.css" afterPath="$PROJECT_DIR$/Resources/css/main.css" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/dist/win32/MessagesForSkype/Resources/css/main.css" afterPath="$PROJECT_DIR$/dist/win32/MessagesForSkype/Resources/css/main.css" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/packages/win32/bundle/MessagesForSkype/Resources/css/main.css" afterPath="$PROJECT_DIR$/packages/win32/bundle/MessagesForSkype/Resources/css/main.css" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/manifest" afterPath="$PROJECT_DIR$/manifest" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/dist/win32/MessagesForSkype/manifest" afterPath="$PROJECT_DIR$/dist/win32/MessagesForSkype/manifest" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/packages/win32/bundle/MessagesForSkype/manifest" afterPath="$PROJECT_DIR$/packages/win32/bundle/MessagesForSkype/manifest" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/Resources/bootstrap/js/npm.js" afterPath="$PROJECT_DIR$/Resources/bootstrap/js/npm.js" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/dist/win32/MessagesForSkype/Resources/bootstrap/js/npm.js" afterPath="$PROJECT_DIR$/dist/win32/MessagesForSkype/Resources/bootstrap/js/npm.js" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/packages/win32/bundle/MessagesForSkype/Resources/bootstrap/js/npm.js" afterPath="$PROJECT_DIR$/packages/win32/bundle/MessagesForSkype/Resources/bootstrap/js/npm.js" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/packages/win32/bundle/MessagesForSkype/runtime/1.3.1-beta/WebKit.resources/inspector/popover.css" afterPath="$PROJECT_DIR$/packages/win32/bundle/MessagesForSkype/runtime/1.3.1-beta/WebKit.resources/inspector/popover.css" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/packages/win32/bundle/MessagesForSkype/runtime/1.3.1-beta/rootcert.pem" afterPath="$PROJECT_DIR$/packages/win32/bundle/MessagesForSkype/runtime/1.3.1-beta/rootcert.pem" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/packages/win32/bundle/MessagesForSkype/runtime/1.3.1-beta/WebKit.resources/inspector/textEditor.css" afterPath="$PROJECT_DIR$/packages/win32/bundle/MessagesForSkype/runtime/1.3.1-beta/WebKit.resources/inspector/textEditor.css" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/packages/win32/bundle/MessagesForSkype/runtime/1.3.1-beta/WebKit.resources/inspector/textViewer.css" afterPath="$PROJECT_DIR$/packages/win32/bundle/MessagesForSkype/runtime/1.3.1-beta/WebKit.resources/inspector/textViewer.css" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/tiapp.xml" afterPath="$PROJECT_DIR$/tiapp.xml" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/dist/win32/MessagesForSkype/tiapp.xml" afterPath="$PROJECT_DIR$/dist/win32/MessagesForSkype/tiapp.xml" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/packages/win32/bundle/MessagesForSkype/tiapp.xml" afterPath="$PROJECT_DIR$/packages/win32/bundle/MessagesForSkype/tiapp.xml" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/packages/win32/bundle/MessagesForSkype/modules/filesystem/1.3.1-beta/tifilesystemmodule.js" afterPath="$PROJECT_DIR$/packages/win32/bundle/MessagesForSkype/modules/filesystem/1.3.1-beta/tifilesystemmodule.js" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/packages/win32/bundle/MessagesForSkype/modules/network/1.3.1-beta/tinetworkmodule.js" afterPath="$PROJECT_DIR$/packages/win32/bundle/MessagesForSkype/modules/network/1.3.1-beta/tinetworkmodule.js" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/packages/win32/bundle/MessagesForSkype/modules/ui/1.3.1-beta/tinotification.html" afterPath="$PROJECT_DIR$/packages/win32/bundle/MessagesForSkype/modules/ui/1.3.1-beta/tinotification.html" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/packages/win32/bundle/MessagesForSkype/modules/process/1.3.1-beta/tiprocessmodule.js" afterPath="$PROJECT_DIR$/packages/win32/bundle/MessagesForSkype/modules/process/1.3.1-beta/tiprocessmodule.js" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/packages/win32/bundle/MessagesForSkype/runtime/1.3.1-beta/WebKit.resources/inspector/treeoutline.js" afterPath="$PROJECT_DIR$/packages/win32/bundle/MessagesForSkype/runtime/1.3.1-beta/WebKit.resources/inspector/treeoutline.js" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/packages/win32/bundle/MessagesForSkype/modules/ui/1.3.1-beta/ui.js" afterPath="$PROJECT_DIR$/packages/win32/bundle/MessagesForSkype/modules/ui/1.3.1-beta/ui.js" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/packages/win32/bundle/MessagesForSkype/modules/network/1.3.1-beta/update.html" afterPath="$PROJECT_DIR$/packages/win32/bundle/MessagesForSkype/modules/network/1.3.1-beta/update.html" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/packages/win32/bundle/MessagesForSkype/runtime/1.3.1-beta/WebKit.resources/inspector/utilities.js" afterPath="$PROJECT_DIR$/packages/win32/bundle/MessagesForSkype/runtime/1.3.1-beta/WebKit.resources/inspector/utilities.js" />
       <change type="MODIFICATION" beforePath="$PROJECT_DIR$/.idea/workspace.xml" afterPath="$PROJECT_DIR$/.idea/workspace.xml" />
       <change type="MODIFICATION" beforePath="$PROJECT_DIR$/dist/win32/MessagesForSkype/.idea/workspace.xml" afterPath="$PROJECT_DIR$/dist/win32/MessagesForSkype/.idea/workspace.xml" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/packages/win32/bundle/MessagesForSkype/.idea/workspace.xml" afterPath="$PROJECT_DIR$/packages/win32/bundle/MessagesForSkype/.idea/workspace.xml" />
     </list>
     <ignored path="HelloWorld.iws" />
     <ignored path=".idea/workspace.xml" />
@@ -35,21 +175,42 @@
   </component>
   <component name="FileEditorManager">
     <leaf>
-      <file leaf-file-name="index.html" pinned="false" current-in-tab="true">
+      <file leaf-file-name="index.html" pinned="false" current-in-tab="false">
         <entry file="file://$PROJECT_DIR$/Resources/index.html">
           <provider selected="true" editor-type-id="text-editor">
-            <state vertical-scroll-proportion="0.5930636">
-              <caret line="54" column="86" selection-start-line="54" selection-start-column="86" selection-end-line="54" selection-end-column="86" />
+            <state vertical-scroll-proportion="-12.193548">
+              <caret line="46" column="106" selection-start-line="46" selection-start-column="97" selection-end-line="46" selection-end-column="106" />
               <folding>
                 <element signature="n#style#0;n#body#0;n#html#0;n#!!top" expanded="true" />
                 <element signature="n#style#0;n#div#0;n#div#0;n#div#0;n#div#0;n#body#0;n#html#0;n#!!top" expanded="true" />
                 <element signature="n#style#0;n#div#0;n#div#0;n#div#0;n#div#0;n#div#0;n#div#0;n#div#0;n#body#0;n#html#0;n#!!top" expanded="true" />
+                <element signature="n#style#0;n#input#0;n#div#1;n#div#0;n#div#0;n#div#0;n#div#0;n#div#0;n#body#0;n#html#0;n#!!top" expanded="true" />
                 <element signature="n#style#0;n#ul#0;n#div#1;n#div#0;n#div#0;n#div#0;n#div#0;n#div#0;n#body#0;n#html#0;n#!!top" expanded="true" />
                 <element signature="n#style#0;n#p#0;n#ul#0;n#div#1;n#div#0;n#div#0;n#div#0;n#div#0;n#div#0;n#body#0;n#html#0;n#!!top" expanded="true" />
                 <element signature="n#style#0;n#div#1;n#div#0;n#div#0;n#div#0;n#body#0;n#html#0;n#!!top" expanded="true" />
                 <element signature="n#style#0;n#input#0;n#div#0;n#form#0;n#div#1;n#div#0;n#div#1;n#div#0;n#div#0;n#div#0;n#body#0;n#html#0;n#!!top" expanded="true" />
                 <element signature="n#style#0;n#div#2;n#div#0;n#div#0;n#div#0;n#body#0;n#html#0;n#!!top" expanded="true" />
               </folding>
+            </state>
+          </provider>
+        </entry>
+      </file>
+      <file leaf-file-name="app.js" pinned="false" current-in-tab="true">
+        <entry file="file://$PROJECT_DIR$/Resources/js/app.js">
+          <provider selected="true" editor-type-id="text-editor">
+            <state vertical-scroll-proportion="0.98240864">
+              <caret line="33" column="16" selection-start-line="33" selection-start-column="16" selection-end-line="33" selection-end-column="16" />
+              <folding />
+            </state>
+          </provider>
+        </entry>
+      </file>
+      <file leaf-file-name="main.css" pinned="false" current-in-tab="false">
+        <entry file="file://$PROJECT_DIR$/Resources/css/main.css">
+          <provider selected="true" editor-type-id="text-editor">
+            <state vertical-scroll-proportion="0.0">
+              <caret line="5" column="95" selection-start-line="5" selection-start-column="95" selection-end-line="5" selection-end-column="95" />
+              <folding />
             </state>
           </provider>
         </entry>
@@ -66,15 +227,19 @@
         <option value="$PROJECT_DIR$/dist/win32/HelloWorld/Resources/common.php" />
         <option value="$PROJECT_DIR$/Resources/common.php" />
         <option value="$PROJECT_DIR$/Resources/database.db" />
-        <option value="$PROJECT_DIR$/Resources/css/main.css" />
         <option value="$PROJECT_DIR$/tiapp.xml" />
-        <option value="$PROJECT_DIR$/README.md" />
         <option value="$PROJECT_DIR$/Resources/app.js" />
         <option value="$PROJECT_DIR$/Resources/LICENSE.txt" />
         <option value="$PROJECT_DIR$/manifest" />
         <option value="$PROJECT_DIR$/CHANGELOG" />
         <option value="$PROJECT_DIR$/LICENSE" />
+        <option value="$PROJECT_DIR$/Resources/bootstrap/css/bootstrap.min.css" />
+        <option value="$PROJECT_DIR$/README.md" />
+        <option value="$PROJECT_DIR$/Resources/css/main.css" />
+        <option value="$PROJECT_DIR$/Resources/js/list.min.js" />
+        <option value="$PROJECT_DIR$/Resources/process.py" />
         <option value="$PROJECT_DIR$/Resources/index.html" />
+        <option value="$PROJECT_DIR$/Resources/js/app.js" />
       </list>
     </option>
   </component>
@@ -89,8 +254,8 @@
   <component name="ProjectFrameBounds">
     <option name="x" value="-8" />
     <option name="y" value="-8" />
-    <option name="width" value="1936" />
-    <option name="height" value="1056" />
+    <option name="width" value="1616" />
+    <option name="height" value="876" />
   </component>
   <component name="ProjectLevelVcsManager" settingsEditedManually="true">
     <OptionsSetting value="true" id="Add" />
@@ -99,7 +264,7 @@
     <OptionsSetting value="true" id="Update" />
     <OptionsSetting value="true" id="Status" />
     <OptionsSetting value="true" id="Edit" />
-    <ConfirmationsSetting value="0" id="Add" />
+    <ConfirmationsSetting value="2" id="Add" />
     <ConfirmationsSetting value="0" id="Remove" />
   </component>
   <component name="ProjectView">
@@ -116,7 +281,6 @@
     </navigator>
     <panes>
       <pane id="Scratches" />
-      <pane id="Scope" />
       <pane id="ProjectPane">
         <subPane>
           <PATH>
@@ -169,30 +333,30 @@
           </PATH>
         </subPane>
       </pane>
+      <pane id="Scope" />
     </panes>
   </component>
   <component name="PropertiesComponent">
     <property name="WebServerToolWindowFactoryState" value="true" />
     <property name="HbShouldOpenHtmlAsHb" value="" />
-    <property name="settings.editor.selected.configurable" value="preferences.keymap" />
+    <property name="settings.editor.selected.configurable" value="preferences.pluginManager" />
     <property name="last_opened_file_path" value="C:/ProgramData/TideSDK/sdk" />
     <property name="settings.editor.splitter.proportion" value="0.2" />
     <property name="FullScreen" value="false" />
   </component>
   <component name="RecentsManager">
     <key name="CopyFile.RECENT_KEYS">
+      <recent name="C:\Work\MessagesForSkype\Resources\js" />
       <recent name="F:\Work\MessagesForSkype" />
       <recent name="F:\Work\MessagesForSkype\Resources" />
       <recent name="F:\Work\HelloWorld\Resources" />
     </key>
+    <key name="MoveFile.RECENT_KEYS">
+      <recent name="C:\Work\MessagesForSkype\Resources\bootstrap\css" />
+      <recent name="C:\Work\MessagesForSkype\Resources\js" />
+    </key>
   </component>
   <component name="RunManager">
-    <configuration default="true" type="DartCommandLineRunConfigurationType" factoryName="Dart Command Line Application">
-      <method />
-    </configuration>
-    <configuration default="true" type="DartUnitRunConfigurationType" factoryName="DartUnit">
-      <method />
-    </configuration>
     <configuration default="true" type="JavascriptDebugType" factoryName="JavaScript Debug">
       <method />
     </configuration>
@@ -238,7 +402,7 @@
     <servers />
   </component>
   <component name="ToolWindowManager">
-    <frame x="-8" y="-8" width="1936" height="1056" extended-state="6" />
+    <frame x="-8" y="-8" width="1616" height="876" extended-state="6" />
     <editor active="true" />
     <layout>
       <window_info id="Terminal" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" weight="0.33" sideWeight="0.5" order="7" side_tool="false" content_ui="tabs" />
@@ -247,7 +411,9 @@
       <window_info id="Structure" active="false" anchor="left" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" weight="0.25" sideWeight="0.5" order="1" side_tool="false" content_ui="tabs" />
       <window_info id="Application Servers" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" weight="0.33" sideWeight="0.5" order="7" side_tool="false" content_ui="tabs" />
       <window_info id="Remote Host" active="false" anchor="right" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" weight="0.33" sideWeight="0.5" order="3" side_tool="false" content_ui="tabs" />
-      <window_info id="Project" active="false" anchor="left" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="true" weight="0.15245202" sideWeight="0.5" order="0" side_tool="false" content_ui="combo" />
+      <window_info id="Project" active="false" anchor="left" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="true" weight="0.188125" sideWeight="0.5" order="0" side_tool="false" content_ui="combo" />
+      <window_info id="Debug" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" weight="0.4" sideWeight="0.5" order="3" side_tool="false" content_ui="tabs" />
+      <window_info id="Run" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" weight="0.33" sideWeight="0.5" order="2" side_tool="false" content_ui="tabs" />
       <window_info id="Favorites" active="false" anchor="left" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" weight="0.33" sideWeight="0.5" order="2" side_tool="true" content_ui="tabs" />
       <window_info id="Event Log" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" weight="0.33" sideWeight="0.5" order="7" side_tool="true" content_ui="tabs" />
       <window_info id="Version Control" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" weight="0.33" sideWeight="0.5" order="7" side_tool="false" content_ui="tabs" />
@@ -255,9 +421,7 @@
       <window_info id="Message" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" weight="0.33" sideWeight="0.5" order="0" side_tool="false" content_ui="tabs" />
       <window_info id="Find" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" weight="0.32900432" sideWeight="0.5" order="1" side_tool="false" content_ui="tabs" />
       <window_info id="Ant Build" active="false" anchor="right" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" weight="0.25" sideWeight="0.5" order="1" side_tool="false" content_ui="tabs" />
-      <window_info id="Debug" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" weight="0.4" sideWeight="0.5" order="3" side_tool="false" content_ui="tabs" />
       <window_info id="Commander" active="false" anchor="right" auto_hide="false" internal_type="SLIDING" type="SLIDING" visible="false" weight="0.4" sideWeight="0.5" order="0" side_tool="false" content_ui="tabs" />
-      <window_info id="Run" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" weight="0.33" sideWeight="0.5" order="2" side_tool="false" content_ui="tabs" />
       <window_info id="Inspection" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" weight="0.4" sideWeight="0.5" order="5" side_tool="false" content_ui="tabs" />
       <window_info id="Hierarchy" active="false" anchor="right" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" weight="0.25" sideWeight="0.5" order="2" side_tool="false" content_ui="combo" />
     </layout>
@@ -274,18 +438,21 @@
     <option name="myLimit" value="2678400000" />
   </component>
   <component name="XDebuggerManager">
-    <breakpoint-manager />
+    <breakpoint-manager>
+      <option name="time" value="1" />
+    </breakpoint-manager>
     <watches-manager />
   </component>
   <component name="editorHistoryManager">
     <entry file="file://$PROJECT_DIR$/Resources/index.html">
       <provider selected="true" editor-type-id="text-editor">
         <state vertical-scroll-proportion="0.0">
-          <caret line="46" column="77" selection-start-line="46" selection-start-column="64" selection-end-line="46" selection-end-column="77" />
+          <caret line="0" column="0" selection-start-line="0" selection-start-column="0" selection-end-line="0" selection-end-column="0" />
           <folding>
             <element signature="n#style#0;n#body#0;n#html#0;n#!!top" expanded="true" />
             <element signature="n#style#0;n#div#0;n#div#0;n#div#0;n#div#0;n#body#0;n#html#0;n#!!top" expanded="true" />
             <element signature="n#style#0;n#div#0;n#div#0;n#div#0;n#div#0;n#div#0;n#div#0;n#div#0;n#body#0;n#html#0;n#!!top" expanded="true" />
+            <element signature="n#style#0;n#input#0;n#div#1;n#div#0;n#div#0;n#div#0;n#div#0;n#div#0;n#body#0;n#html#0;n#!!top" expanded="true" />
             <element signature="n#style#0;n#ul#0;n#div#1;n#div#0;n#div#0;n#div#0;n#div#0;n#div#0;n#body#0;n#html#0;n#!!top" expanded="true" />
             <element signature="n#style#0;n#p#0;n#ul#0;n#div#1;n#div#0;n#div#0;n#div#0;n#div#0;n#div#0;n#body#0;n#html#0;n#!!top" expanded="true" />
             <element signature="n#style#0;n#div#1;n#div#0;n#div#0;n#div#0;n#body#0;n#html#0;n#!!top" expanded="true" />
@@ -295,7 +462,25 @@
         </state>
       </provider>
     </entry>
-    <entry file="file://$PROJECT_DIR$/Resources/app.js">
+    <entry file="file://$PROJECT_DIR$/Resources/index.html">
+      <provider selected="true" editor-type-id="text-editor">
+        <state vertical-scroll-proportion="0.0">
+          <caret line="46" column="77" selection-start-line="46" selection-start-column="64" selection-end-line="46" selection-end-column="77" />
+          <folding>
+            <element signature="n#style#0;n#body#0;n#html#0;n#!!top" expanded="true" />
+            <element signature="n#style#0;n#div#0;n#div#0;n#div#0;n#div#0;n#body#0;n#html#0;n#!!top" expanded="true" />
+            <element signature="n#style#0;n#div#0;n#div#0;n#div#0;n#div#0;n#div#0;n#div#0;n#div#0;n#body#0;n#html#0;n#!!top" expanded="true" />
+            <element signature="n#style#0;n#input#0;n#div#1;n#div#0;n#div#0;n#div#0;n#div#0;n#div#0;n#body#0;n#html#0;n#!!top" expanded="true" />
+            <element signature="n#style#0;n#ul#0;n#div#1;n#div#0;n#div#0;n#div#0;n#div#0;n#div#0;n#body#0;n#html#0;n#!!top" expanded="true" />
+            <element signature="n#style#0;n#p#0;n#ul#0;n#div#1;n#div#0;n#div#0;n#div#0;n#div#0;n#div#0;n#body#0;n#html#0;n#!!top" expanded="true" />
+            <element signature="n#style#0;n#div#1;n#div#0;n#div#0;n#div#0;n#body#0;n#html#0;n#!!top" expanded="true" />
+            <element signature="n#style#0;n#input#0;n#div#0;n#form#0;n#div#1;n#div#0;n#div#1;n#div#0;n#div#0;n#div#0;n#body#0;n#html#0;n#!!top" expanded="true" />
+            <element signature="n#style#0;n#div#2;n#div#0;n#div#0;n#div#0;n#body#0;n#html#0;n#!!top" expanded="true" />
+          </folding>
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/Resources/js/app.js">
       <provider selected="true" editor-type-id="text-editor">
         <state vertical-scroll-proportion="0.0">
           <caret line="194" column="9" selection-start-line="194" selection-start-column="9" selection-end-line="194" selection-end-column="9" />
@@ -315,19 +500,18 @@
       <provider selected="true" editor-type-id="text-editor">
         <state vertical-scroll-proportion="0.0">
           <caret line="0" column="11" selection-start-line="0" selection-start-column="11" selection-end-line="0" selection-end-column="11" />
-          <folding />
         </state>
       </provider>
     </entry>
     <entry file="file://$PROJECT_DIR$/LICENSE">
-      <provider editor-type-id="com.intellij.database.editor.CsvTableFileEditorProvider">
-        <state />
-      </provider>
       <provider selected="true" editor-type-id="text-editor">
         <state vertical-scroll-proportion="0.0">
           <caret line="9" column="30" selection-start-line="9" selection-start-column="30" selection-end-line="9" selection-end-column="30" />
           <folding />
         </state>
+      </provider>
+      <provider editor-type-id="com.intellij.database.editor.CsvTableFileEditorProvider">
+        <state />
       </provider>
     </entry>
     <entry file="file://$PROJECT_DIR$/tiapp.xml">
@@ -339,25 +523,24 @@
       </provider>
     </entry>
     <entry file="file://$PROJECT_DIR$/LICENSE.txt">
-      <provider editor-type-id="com.intellij.database.editor.CsvTableFileEditorProvider">
-        <state />
-      </provider>
       <provider selected="true" editor-type-id="text-editor">
         <state vertical-scroll-proportion="0.0">
           <caret line="0" column="0" selection-start-line="0" selection-start-column="0" selection-end-line="0" selection-end-column="0" />
           <folding />
         </state>
       </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/Resources/LICENSE.txt">
       <provider editor-type-id="com.intellij.database.editor.CsvTableFileEditorProvider">
         <state />
       </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/Resources/LICENSE.txt">
       <provider selected="true" editor-type-id="text-editor">
         <state vertical-scroll-proportion="0.0">
           <caret line="12" column="23" selection-start-line="0" selection-start-column="0" selection-end-line="18" selection-end-column="13" />
-          <folding />
         </state>
+      </provider>
+      <provider editor-type-id="com.intellij.database.editor.CsvTableFileEditorProvider">
+        <state />
       </provider>
     </entry>
     <entry file="file://$PROJECT_DIR$/Resources/index.html">
@@ -368,6 +551,7 @@
             <element signature="n#style#0;n#body#0;n#html#0;n#!!top" expanded="true" />
             <element signature="n#style#0;n#div#0;n#div#0;n#div#0;n#div#0;n#body#0;n#html#0;n#!!top" expanded="true" />
             <element signature="n#style#0;n#div#0;n#div#0;n#div#0;n#div#0;n#div#0;n#div#0;n#div#0;n#body#0;n#html#0;n#!!top" expanded="true" />
+            <element signature="n#style#0;n#input#0;n#div#1;n#div#0;n#div#0;n#div#0;n#div#0;n#div#0;n#body#0;n#html#0;n#!!top" expanded="true" />
             <element signature="n#style#0;n#ul#0;n#div#1;n#div#0;n#div#0;n#div#0;n#div#0;n#div#0;n#body#0;n#html#0;n#!!top" expanded="true" />
             <element signature="n#style#0;n#p#0;n#ul#0;n#div#1;n#div#0;n#div#0;n#div#0;n#div#0;n#div#0;n#body#0;n#html#0;n#!!top" expanded="true" />
             <element signature="n#style#0;n#div#1;n#div#0;n#div#0;n#div#0;n#body#0;n#html#0;n#!!top" expanded="true" />
@@ -377,7 +561,7 @@
         </state>
       </provider>
     </entry>
-    <entry file="file://$PROJECT_DIR$/Resources/app.js">
+    <entry file="file://$PROJECT_DIR$/Resources/js/app.js">
       <provider selected="true" editor-type-id="text-editor">
         <state vertical-scroll-proportion="0.0">
           <caret line="32" column="17" selection-start-line="32" selection-start-column="17" selection-end-line="32" selection-end-column="17" />
@@ -390,13 +574,6 @@
         <state vertical-scroll-proportion="0.0">
           <caret line="5" column="8" selection-start-line="5" selection-start-column="8" selection-end-line="5" selection-end-column="8" />
           <folding />
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/Resources/jquery-2.1.3.min.js">
-      <provider selected="true" editor-type-id="text-editor">
-        <state vertical-scroll-proportion="0.0">
-          <caret line="0" column="0" selection-start-line="0" selection-start-column="0" selection-end-line="0" selection-end-column="0" />
         </state>
       </provider>
     </entry>
@@ -414,94 +591,32 @@
         </state>
       </provider>
     </entry>
-    <entry file="file://C:/ProgramData/TideSDK/modules/win32/process/1.3.1-beta/tiprocessmodule.js">
-      <provider selected="true" editor-type-id="text-editor">
-        <state vertical-scroll-proportion="0.117056854">
-          <caret line="81" column="41" selection-start-line="81" selection-start-column="41" selection-end-line="81" selection-end-column="41" />
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/Resources/css/main.css">
-      <provider selected="true" editor-type-id="text-editor">
-        <state vertical-scroll-proportion="0.0">
-          <caret line="5" column="8" selection-start-line="5" selection-start-column="8" selection-end-line="5" selection-end-column="8" />
-          <folding />
-        </state>
-      </provider>
-    </entry>
     <entry file="file://$PROJECT_DIR$/Resources/default_app_logo.png">
       <provider selected="true" editor-type-id="images">
         <state />
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/Resources/app.js">
-      <provider selected="true" editor-type-id="text-editor">
-        <state vertical-scroll-proportion="0.0">
-          <caret line="194" column="9" selection-start-line="194" selection-start-column="9" selection-end-line="194" selection-end-column="9" />
-          <folding />
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/README.md">
-      <provider selected="true" editor-type-id="text-editor">
-        <state vertical-scroll-proportion="0.050516646">
-          <caret line="2" column="34" selection-start-line="2" selection-start-column="34" selection-end-line="2" selection-end-column="34" />
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/manifest">
-      <provider selected="true" editor-type-id="text-editor">
-        <state vertical-scroll-proportion="0.0">
-          <caret line="0" column="9" selection-start-line="0" selection-start-column="9" selection-end-line="0" selection-end-column="25" />
-          <folding />
-        </state>
       </provider>
     </entry>
     <entry file="file://$PROJECT_DIR$/CHANGELOG">
       <provider selected="true" editor-type-id="text-editor">
         <state vertical-scroll-proportion="0.0">
           <caret line="0" column="11" selection-start-line="0" selection-start-column="11" selection-end-line="0" selection-end-column="11" />
-          <folding />
         </state>
       </provider>
     </entry>
     <entry file="file://$PROJECT_DIR$/Resources/LICENSE.txt">
-      <provider editor-type-id="com.intellij.database.editor.CsvTableFileEditorProvider">
-        <state />
-      </provider>
       <provider selected="true" editor-type-id="text-editor">
         <state vertical-scroll-proportion="0.0">
           <caret line="12" column="23" selection-start-line="0" selection-start-column="0" selection-end-line="18" selection-end-column="13" />
-          <folding />
         </state>
       </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/LICENSE">
       <provider editor-type-id="com.intellij.database.editor.CsvTableFileEditorProvider">
         <state />
-      </provider>
-      <provider selected="true" editor-type-id="text-editor">
-        <state vertical-scroll-proportion="0.0">
-          <caret line="9" column="30" selection-start-line="9" selection-start-column="30" selection-end-line="9" selection-end-column="30" />
-          <folding />
-        </state>
       </provider>
     </entry>
     <entry file="file://$PROJECT_DIR$/tiapp.xml">
       <provider selected="true" editor-type-id="text-editor">
         <state vertical-scroll-proportion="0.0">
           <caret line="8" column="0" selection-start-line="8" selection-start-column="0" selection-end-line="9" selection-end-column="0" />
-          <folding />
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/LICENSE.txt">
-      <provider editor-type-id="com.intellij.database.editor.CsvTableFileEditorProvider">
-        <state />
-      </provider>
-      <provider selected="true" editor-type-id="text-editor">
-        <state vertical-scroll-proportion="0.0">
-          <caret line="0" column="0" selection-start-line="0" selection-start-column="0" selection-end-line="0" selection-end-column="0" />
           <folding />
         </state>
       </provider>
@@ -514,20 +629,107 @@
         </state>
       </provider>
     </entry>
+    <entry file="file://$PROJECT_DIR$/Resources/js/jquery-2.1.3.min.js">
+      <provider selected="true" editor-type-id="text-editor">
+        <state vertical-scroll-proportion="0.0">
+          <caret line="0" column="0" selection-start-line="0" selection-start-column="0" selection-end-line="0" selection-end-column="0" />
+          <folding />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/Resources/bootstrap/css/bootstrap.min.css">
+      <provider selected="true" editor-type-id="text-editor">
+        <state vertical-scroll-proportion="0.030812325">
+          <caret line="1" column="0" selection-start-line="1" selection-start-column="0" selection-end-line="1" selection-end-column="0" />
+          <folding />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/manifest">
+      <provider selected="true" editor-type-id="text-editor">
+        <state vertical-scroll-proportion="0.32746956">
+          <caret line="11" column="19" selection-start-line="11" selection-start-column="19" selection-end-line="11" selection-end-column="19" />
+          <folding />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/README.md">
+      <provider selected="true" editor-type-id="text-editor">
+        <state vertical-scroll-proportion="0.1232493">
+          <caret line="4" column="69" selection-start-line="4" selection-start-column="69" selection-end-line="4" selection-end-column="69" />
+          <folding />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/Resources/js/list.min.js">
+      <provider selected="true" editor-type-id="text-editor">
+        <state vertical-scroll-proportion="0.9404601">
+          <caret line="62" column="1" selection-start-line="62" selection-start-column="1" selection-end-line="62" selection-end-column="1" />
+          <folding />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/LICENSE.txt">
+      <provider selected="true" editor-type-id="text-editor">
+        <state vertical-scroll-proportion="0.0">
+          <caret line="0" column="0" selection-start-line="0" selection-start-column="0" selection-end-line="18" selection-end-column="13" />
+          <folding />
+        </state>
+      </provider>
+      <provider editor-type-id="com.intellij.database.editor.CsvTableFileEditorProvider">
+        <state />
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/LICENSE">
+      <provider selected="true" editor-type-id="text-editor">
+        <state vertical-scroll-proportion="0.27926657">
+          <caret line="9" column="30" selection-start-line="9" selection-start-column="30" selection-end-line="9" selection-end-column="30" />
+          <folding />
+        </state>
+      </provider>
+      <provider editor-type-id="com.intellij.database.editor.CsvTableFileEditorProvider">
+        <state />
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/Resources/css/main.css">
+      <provider selected="true" editor-type-id="text-editor">
+        <state vertical-scroll-proportion="0.0">
+          <caret line="5" column="95" selection-start-line="5" selection-start-column="95" selection-end-line="5" selection-end-column="95" />
+          <folding />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://C:/ProgramData/TideSDK/modules/win32/process/1.3.1-beta/tiprocessmodule.js">
+      <provider selected="true" editor-type-id="text-editor">
+        <state vertical-scroll-proportion="0.3328823">
+          <caret line="36" column="2" selection-start-line="36" selection-start-column="2" selection-end-line="36" selection-end-column="2" />
+          <folding />
+        </state>
+      </provider>
+    </entry>
     <entry file="file://$PROJECT_DIR$/Resources/index.html">
       <provider selected="true" editor-type-id="text-editor">
-        <state vertical-scroll-proportion="0.5930636">
-          <caret line="54" column="86" selection-start-line="54" selection-start-column="86" selection-end-line="54" selection-end-column="86" />
+        <state vertical-scroll-proportion="-12.193548">
+          <caret line="46" column="106" selection-start-line="46" selection-start-column="97" selection-end-line="46" selection-end-column="106" />
           <folding>
             <element signature="n#style#0;n#body#0;n#html#0;n#!!top" expanded="true" />
             <element signature="n#style#0;n#div#0;n#div#0;n#div#0;n#div#0;n#body#0;n#html#0;n#!!top" expanded="true" />
             <element signature="n#style#0;n#div#0;n#div#0;n#div#0;n#div#0;n#div#0;n#div#0;n#div#0;n#body#0;n#html#0;n#!!top" expanded="true" />
+            <element signature="n#style#0;n#input#0;n#div#1;n#div#0;n#div#0;n#div#0;n#div#0;n#div#0;n#body#0;n#html#0;n#!!top" expanded="true" />
             <element signature="n#style#0;n#ul#0;n#div#1;n#div#0;n#div#0;n#div#0;n#div#0;n#div#0;n#body#0;n#html#0;n#!!top" expanded="true" />
             <element signature="n#style#0;n#p#0;n#ul#0;n#div#1;n#div#0;n#div#0;n#div#0;n#div#0;n#div#0;n#body#0;n#html#0;n#!!top" expanded="true" />
             <element signature="n#style#0;n#div#1;n#div#0;n#div#0;n#div#0;n#body#0;n#html#0;n#!!top" expanded="true" />
             <element signature="n#style#0;n#input#0;n#div#0;n#form#0;n#div#1;n#div#0;n#div#1;n#div#0;n#div#0;n#div#0;n#body#0;n#html#0;n#!!top" expanded="true" />
             <element signature="n#style#0;n#div#2;n#div#0;n#div#0;n#div#0;n#body#0;n#html#0;n#!!top" expanded="true" />
           </folding>
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/Resources/js/app.js">
+      <provider selected="true" editor-type-id="text-editor">
+        <state vertical-scroll-proportion="0.98240864">
+          <caret line="33" column="16" selection-start-line="33" selection-start-column="16" selection-end-line="33" selection-end-column="16" />
+          <folding />
         </state>
       </provider>
     </entry>

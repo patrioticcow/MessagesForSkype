@@ -3,4 +3,4 @@ body { background: #ffffff; }
 .chat { list-style: none; margin: 0; padding: 0; }
 .chat li { margin-bottom: 10px; padding-bottom: 5px; border-bottom: 1px dotted #b3a9a9; }
 .chat li .chat-body p { margin: 0; color: #777777; }
-.message { word-break: break-all; }
+.message { word-break: break-all; -webkit-user-select: auto; -webkit-user-modify: read-write; }
