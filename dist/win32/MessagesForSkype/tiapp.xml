@@ -12,10 +12,10 @@
 <title>HelloWorld</title>
 <url>app://index.html</url>
 <width>768</width>
-<max-width>1170</max-width>
-<min-width>768</min-width>
-<height>500</height>
-<max-height>500</max-height>
+<max-width>1500</max-width>
+<min-width>500</min-width>
+<height>520</height>
+<max-height>1500</max-height>
 <min-height>0</min-height>
 <fullscreen>false</fullscreen>
 <resizable>true</resizable>
